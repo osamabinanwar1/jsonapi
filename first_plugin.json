@@ -1,0 +1,8 @@
+{
+    "name": "Samchi Repository",
+    "description": "Providers from all country",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://osamabinanwar1.github.io/first_repo/first_repo.json"
+    ]
+}
